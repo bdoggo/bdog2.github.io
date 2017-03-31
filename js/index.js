@@ -9,7 +9,7 @@ var guys = {
 var links = {
 	"discord": "https://discordapp.com/invite/dhh2GQv",
 	"bdog's steam group": "http://steamcommunity.com/groups/bdoggo",
-	"bdog's logout machine": "https://reiger.us/logout"
+	"bdog's logout machine": "https://reiger.us/"
 }
 
 var marquee = document.getElementsByClassName("js-marquee")[0];
